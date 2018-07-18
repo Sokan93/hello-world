@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hello i'm Ayo
+Just starting out here
